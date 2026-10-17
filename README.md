@@ -60,5 +60,8 @@ I'm open to:
 🤝 Freelance projects
 🎓 Technical training opportunities
 🚀 Technology collaborations
-
 Feel free to explore my repositories and connect with me.
+🌐 My Portfolio
+Explore my professional portfolio, IT support experience, technical skills, and software projects.
+Visit My Portfolio
+GitHub: github.com/uterhim
